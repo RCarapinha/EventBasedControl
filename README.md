@@ -6,14 +6,20 @@ Work done in Event-based Control in 4th year passed in Poland.
 
 The first task was to control a single car, with a traffic light and a tunnel. The car can only enter the tunnel when the traffic light is green.
 
+<img src="https://github.com/RCarapinha/EventBasedControl/blob/master/Lab1%20-%20OneTwo%20Cars/Idea.PNG" width="500">
+
 ## Laboratory 2
 
 The second task was to control two cars with a controller (represented by the lights).
 The cars can only enter the tunnel when the traffic light is green.
 
+<img src="https://github.com/RCarapinha/EventBasedControl/blob/master/Lab2%20-%20RobotController/Idea.PNG" width="500">
+
 ## Laboratory 3
 
 The third task was to control three cars with a controller (represented by the lights). The cars can only enter the tunnel when the controller gives permission and when the tunnel is free.
+
+<img src="https://github.com/RCarapinha/EventBasedControl/blob/master/Lab3/Idea.PNG" width="500">
 
 ## Laboratory 4
 
