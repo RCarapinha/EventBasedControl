@@ -28,3 +28,5 @@ The fourth task was to control two robots in an open space and making sure they 
 ## Laboratory 5
 
 The fifth task is to develop a controller that manipulates one transport robot and 5 machines, each one with different execution times. Each machine has an input and an output buffer.
+
+More info on the corresponding reports.
